@@ -1,0 +1,20 @@
+h4, .h4 {
+  /* font-size: calc(1.275rem + 0.3vw); */
+  color: brown
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #4ac983;
+  border-color: #4ac983;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #4ac983;
+  border-color: #4ac983;
+}
+
+body {
+  background-color: #fdfdfd;
+}
